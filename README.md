@@ -1,2 +1,2 @@
 # cvpr_Spring_23-24
- mid project
+ mid project on Face Detection
