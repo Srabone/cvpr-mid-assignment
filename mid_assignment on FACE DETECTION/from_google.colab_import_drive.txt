@@ -1,4 +1,0 @@
-from google.colab import drive
-drive.mount('/content/drive', force_remount=True)
-
-model.save('/content/drive/MyDrive/datatrainingfacedetection1')
